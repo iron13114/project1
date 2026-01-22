@@ -1,2 +1,9 @@
-# project1
-This is my first first project
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Project-1</title>
+</head>
+<body>
+  <h1>Welcome to Project-1</h1>
+</body>
+</html>
